@@ -1,4 +1,4 @@
-```java
+
 import java.util.Scanner;
 
 class Stack {
@@ -92,4 +92,3 @@ public class LinkedListStack {
         sc.close();
     }
 }
-```
